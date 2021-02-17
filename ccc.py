@@ -1,0 +1,1 @@
+result = (class_name, group_name, division_name, section_name)
