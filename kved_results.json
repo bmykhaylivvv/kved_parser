@@ -1,0 +1,19 @@
+{
+    "name": "Добування бурого вугілля",
+    "type": "class",
+    "parent": {
+        "name": "Добування бурого вугілля",
+        "type": "group",
+        "num_children": 1,
+        "parent": {
+            "name": "Добування кам'яного та бурого вугілля",
+            "type": "division",
+            "num_children": 2,
+            "parent": {
+                "name": "Добувна промисловість і розроблення кар'єрів",
+                "type": "section",
+                "num_children": 5
+            }
+        }
+    }
+}
